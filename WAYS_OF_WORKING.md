@@ -45,3 +45,9 @@ git remote set-url origin https://Rogercaste:ghp_NEW_TOKEN@github.com/Rogercaste
 git pull --rebase origin main
 git push
 ```
+
+## If Push Gets Rejected
+````bash
+git pull --rebase origin main
+git push
+```
