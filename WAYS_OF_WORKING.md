@@ -39,3 +39,9 @@ git push
 ```bash
 git remote set-url origin https://Rogercaste:ghp_NEW_TOKEN@github.com/Rogercaste/WRITEUPS.git
 ```
+
+## If Push Gets Rejected
+````bash
+git pull --rebase origin main
+git push
+```
